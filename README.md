@@ -1,4 +1,4 @@
 - 👋 Hi, I’m adam and locate in hangzhou china.
 - 👀 I’m interested in boxing & trip.
 - 🌱 I’m currently learning js,http2,ts and so on.
-- 👋 Oh, now, I'm a web enginner in 政采云.
+- 👋 Oh, now, I'm a web enginner in Nokia.
